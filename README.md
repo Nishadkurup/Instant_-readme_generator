@@ -1,4 +1,4 @@
-# Instant_-readme_generator
+# Instant_readme_generator
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ### Table of Contents 
